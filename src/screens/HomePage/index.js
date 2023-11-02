@@ -13,7 +13,7 @@ const HomePage = () => {
     }}
   >
     <Text style={{color: '#000000', fontSize: 38, fontWeight: 'bold' }}>
-        Chegamos na Outra Tela.
+        Chegamos na Outra Telaaaaa.
     </Text>
   </View>
   );
